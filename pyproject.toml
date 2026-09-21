@@ -13,11 +13,13 @@ features = [
     "featuremodel",
     "flamapy",
     "hubfile",
+    "notepad",
     "profile",
     "public",
     "team",
     "zenodo",
 ]
+
 features_dev = [
     "webhook",
 ]
